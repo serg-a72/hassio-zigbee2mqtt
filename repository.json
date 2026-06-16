@@ -1,5 +1,5 @@
 {
   "name": "Home Assistant App: Zigbee2MQTT-M",
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
+  "url": "https://github.com/serg-a72/hassio-zigbee2mqtt/tree/master",
   "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
 }
